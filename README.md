@@ -93,8 +93,8 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## Tasks 
 
-* Open a pull request and add your mentor or someone in the tech team as a [reviewer](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/requesting-a-pull-request-review).  
 * Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
+* Open a pull request and add your mentor or someone in the tech team as a [reviewer](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/requesting-a-pull-request-review).  
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 * Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
 * [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
