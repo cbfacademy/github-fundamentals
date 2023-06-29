@@ -20,4 +20,5 @@ I still get a little confused about working and terminology I'm hoping these... 
 I'll be honest I just forked it
 
 -[] Revisit this at the end of July to see if that... moment is still there.
--[] Remmeber to commit and commit often!
+<br>
+-[] Remember to commit and commit often!
