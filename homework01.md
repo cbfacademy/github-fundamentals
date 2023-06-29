@@ -4,7 +4,9 @@ In this lesson I learned how to use GitHub and the ways that CBF would like us t
 
 The README.md file teaches me all of the ways that GitHub is best utilised for CBF including how to make new repositories, clone and fork them. in additions to giving materias on where to find further details and assistance. This was supported by a lesson delivered by the CBF teams.
 
-- The homeowrk also details how to clone/fork a repository. 
+## GitHub Homework details and skills used
+
+- The homework also details how to clone/fork a repository. 
 - When it is appropriate to clone/ fork a repository. 
 - Creating a branch.
 - Initializing a repo.
