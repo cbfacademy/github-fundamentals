@@ -26,12 +26,16 @@ git help
 git push
 git pull
 ```
+
 ``` git fetch``` * sees all changes applied in local repo and megers changes to current branch *
+
 ```git restore``` * discrad changes that are working in directory *
+
 
 ## Git branch commands - *allows to freely work on source code w/o affecting anyone elses work or actual code in main branch*
 
 ```checkout - b (branch name)``` *creates a new branch will all git history of branch that currently on and switches to it*
+
 ``` git branch ``` * will display all branches you currently have for your repo *
 
 ## Java keywords
@@ -40,7 +44,7 @@ git pull
 ``` class ```
 ``` static ```
 ``` voic ``` 
-^^ all cant be changed 
+all cant be changed 
 
 ## Git hub terminology 
 
@@ -59,22 +63,25 @@ git pull
 
 
 
-# What I am struggling to learn 
+
+# **What I am struggling to learn**
 
 - The difference between Java variables, syntax, class
 - How the above applies to software , app , web dev etc
 - Programming principles and how they apply in practice
 - Phrases such as class based , constant , scope , main method
-- Java platform 
+- Java platform
 
-# What I have overcome so far
+  
+
+# **What I have overcome so far**
 
 - Learning command line it was difficult to remember commands for mac vs windows
 - Thinking it is about memorising all the different commands and coding language  rather then understanding what you are trying to do and how you are going to achieve it (google / javadocs be your best friend)
 - Applying  myself and encouraing myself to keep going, stay focused on the end goal and be willing to admit when I dont understand something
 
 
-## Attach print screens of diagrams explainimg theorys, java variables , concepts etc
+## **Attach print screens of diagrams explainimg theorys, java variables , concepts etc**
 
 
 ![Screenshot of agile sprint method)](https://github.com/chellacodes/github-fundamentals/assets/128637059/993d434e-ae89-422f-9f22-269d877196be)
@@ -84,18 +91,23 @@ git pull
 ![Screenshot of java development flow](https://github.com/chellacodes/github-fundamentals/assets/128637059/971aebf2-e399-410c-9aab-e0fe864b2974)
 
 
-## Queations I got wrong in the skills check for : Intro to Java basics, commnand line , git 
+
+
+# Questions from first skills test ; java basic , command line , git 
 
 19 out of 22 86.36%
 
-1 *Java code is complied into an intermediate format called?* Archiecture Neurual Byte Codes
-1 *Which of the following are benefits of Java?*
+1. *Java code is complied into an intermediate format called?* Archiecture Neurual Byte Codes
+   
+2. *Which of the following are benefits of Java?*
+   
 - WORA: WRITE ONCE RUN ANYTIME
 - SECURITY? 
 - OBJECT ORIENTATION
 - ITS FREE
-1 *A specification of the API : Interface and required behaviour is defined by the?* Java Community Process (JCP)
+  
+3. *A specification of the API : Interface and required behaviour is defined by the?* Java Community Process (JCP)
 
-### I struggled most on Java basics and had to research teminology used in the questions 
+I struggled most on Java basics and had to research teminology used in the questions 
 
 
