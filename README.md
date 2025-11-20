@@ -1,3 +1,6 @@
+## My Notes
+This is my practice README for the CBF Github Fundamentals homework.
+
 # :wave: The Basics of GitHub
 
 - Read through the below content so you can understand some commonly used terms and uses of GitHub
